@@ -16,4 +16,4 @@ eureka:
 
 # 自定义配置
 name: order-service-prod1
-pwd: lll
+pwd: llll
